@@ -33,6 +33,7 @@
 - Filtrado
 
 ## Aplicación: Búsqueda, descarga y análisis con bases de datos
+- Uso de `chembl` y `rdkit`
 
 ## Fundamentos de `matplotlib` y `seanborn` 
 Introduccion to Applied Plotting, Charting & Data Representation
