@@ -3,9 +3,9 @@
 
 ¿A quién va dirigido este curso?
 
-# PRIMERA PARTE: FUNDAMENTOS
+# PRIMERA PARTE: Fundamentos
 
-## Introduction to Data Science whit PyThon
+## Introduction to Data Science whit Python
 
 - Python como lenguaje de programación 
 - Jupyter como desarrollador de recursos abiertos 
@@ -21,7 +21,7 @@
 - Listas, diccionarios y tuplas
 - Introducción al manejo de fechas y tiempo
 
-# SEGUNDA PARTE: USO DE LIBRERIAS
+# SEGUNDA PARTE: Uso de librerías
 
 ## Uso de tablas y **Dataframes**. Fundamentos de `numpy` y `pandas`
 - The DataFrame structure
@@ -63,11 +63,14 @@ Introduccion to Applied Plotting, Charting & Data Representation
 - SVM
 - LNN
 
-### Otros modelos de clasificación
+#### Otros modelos de clasificación
 - XGBoost classifier
 - CatBoost classifier
 
 ## Aplicación: Drug Desing
+
+### Modelos clásicos de regresión
+- poner aqui
 
 # CUARTA PARTE: DEEP LEARNING
 
