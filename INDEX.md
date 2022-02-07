@@ -1,57 +1,73 @@
-Por qué tomar este curso
-A quien va dirigido este curso
+# INTRODUCCIÓN
+¿Por qué tomar este curso?
 
-Introduction to Data Science whit PyThon
+¿A quién va dirigido este curso?
 
->> Python como lenguaje de programación
->> Jupyter como desarrollador de recursos abiertos
->>Todo lo que necesitamos >> instalando Anaconda
+# PRIMERA PARTE: FUNDAMENTOS
 
-Fundamentos de Python
->> Expresiones
->> Conditional statements
->> Usando y construyendo funciones
->> Ciclos e iteraciones
->> Strings
->> Introducción a la manipulación de archivos
->> Listas, diccionarios y tuplas
->> Introducción al manejo de fechas y tiempo
+## Introduction to Data Science whit PyThon
 
-Fundamentos de Pandas
->> The DataFrame structure
->> Manipulación de archivos con pandas
->>> Indexing Datafreames
->>> Concatenate and merge dataframes
->>> Missing Values
->>> Agrupamiento
->>> Filtrado
+- Python como lenguaje de programación 
+- Jupyter como desarrollador de recursos abiertos 
+- ¿qué necesitamos? instalando Anaconda
 
+## Fundamentos de Python
+- Expresiones
+- Conditional statements
+- Usando y construyendo funciones
+- Ciclos e iteraciones
+- Strings
+- Introducción a la manipulación de archivos
+- Listas, diccionarios y tuplas
+- Introducción al manejo de fechas y tiempo
+
+# SEGUNDA PARTE: USO DE LIBRERIAS
+
+## Uso de tablas y **Dataframes**. Fundamentos de `numpy` y `pandas`
+- The DataFrame structure
+- Manipulación de archivos con pandas 
+- Indexing Datafreames
+- Concatenate and merge dataframes
+- Missing Values
+- Agrupamiento
+- Filtrado
+
+## Aplicación: Búsqueda, descarga y análisis con bases de datos
+
+## Fundamentos de `matplotlib` y `seanborn` 
 Introduccion to Applied Plotting, Charting & Data Representation
->> Principales librerias para visualización
->> Matplotlib: Basic plotting
->> Scatterplots, Line plots, bar charts an more
 
-Análisis estadístico con python
->> Estadística univarida
->> Métodos de visualización
->> Preparación y limpieza de datos
->> búsqueda de correlaciones
+- Principales librerias para visualización
+- Matplotlib: Basic plotting
+- Scatterplots, Line plots, bar charts an more
+- Seaborn: other chars
 
->>>>>>>>
+## Aplicación: Análisis estadístico
+- Estadística univarida
+- Métodos de visualización
+- Preparación y limpieza de datos
+- búsqueda de correlaciones
 
-Machine Learnig Fundamentals
-> Aprendizaje no supervisado
->> reducción de dimensionalidad PCA
->> Clustering
+# TERCERA PARTE: Machine Learnig Fundamentals
 
-> Aprendizaje supervisado
->> Modelos de clasificación
->>> Árboles de decisión
->>> Random Forest
->>> SVM
->>> LNN
+## Aprendizaje no supervisado
+- reducción de dimensionalidad PCA
+- Clustering
 
->> Modelos de regresión
->>>>>
+## Aprendizaje supervisado 
 
+### Modelos clásicos de clasificación
+- Modelos de clasificación
+- Árboles de decisión
+- Random Forest
+- SVM
+- LNN
+
+### Otros modelos de clasificación
+- XGBoost classifier
+- CatBoost classifier
+
+## Aplicación: Drug Desing
+
+# CUARTA PARTE: DEEP LEARNING
 
