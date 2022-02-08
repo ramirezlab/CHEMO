@@ -1,11 +1,8 @@
 # DS-for-DD
 
-## INTRODUCCIÓN
+# INTRODUCTION
+## Why take this course?
 
-### ¿Por qué tomar este curso?
+## Who is this course for?
 
-### ¿A quién va dirigido este curso?
-
-### Recomendaciones
-
-### Instalación
+## What do we need? Installing anaconda
