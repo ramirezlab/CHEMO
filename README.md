@@ -1,8 +1,8 @@
 # DS-for-DD
 
-# INTRODUCTION
-## Why take this course?
+## INTRODUCTION
+### Why take this course?
 
-## Who is this course for?
+### Who is this course for?
 
-## What do we need? Installing anaconda
+### What do we need? Installing anaconda
