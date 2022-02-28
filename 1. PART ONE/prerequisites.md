@@ -1,19 +1,23 @@
 # Instalación
-Una de las herramientas con las que se trabajara en este curso son los Notebooks de Jupyter, empleados para el análisis de datos por medio de Python y todos sus paquetes.
+
+Una de las herramientas con las que se trabajara en este curso son los `Notebooks de Jupyter`, empleados para el análisis de datos por medio de Python y todos sus paquetes.
 Para iniciar se necesita la instalación de Python, que puede variar dependiendo del sistema operativo.
 
 ## Instalar Python en Windows 10:
+
 Primero es necesario comprobar la versión de Windows instalada en su computador (32 o 64 bits), para ello, presione las teclas Windows y Pause/Break al mismo tiempo, la versión aparecerá en el apartado de  "Tipo de sistema".
 
 Para descargar el instalador de Python se puede hacer desde la página oficial (www.python.org), se da clic en la opción Downloads, y a continuación se debe seleccionar la versión de Python a instalar, la versión por defecto es la 3.10.2.
 
 Una vez descargado el instalador (python-3.10.2-amd*.exe):
-1.	Se abre el instalador (dar doble clic), 
-2.	En la ventana de “Setup” marca la casilla inferior “Add Python 3.10 to PATH”
-3.	Comenzar con la instalación (clic en “Install Now”)
-4.	Finalizado el proceso de Set up, da clic en Close
+
+1. Se abre el instalador (dar doble clic),
+2. En la ventana de “Setup” marca la casilla inferior “Add Python 3.10 to PATH”
+3. Comenzar con la instalación (clic en “Install Now”)
+4. Finalizado el proceso de Set up, da clic en Close
 
 Python ya está instalado en su computadora con la versión correspondiente.
+
 ## Otras formas de instalar Python
 
 ### Por medio de Anaconda
