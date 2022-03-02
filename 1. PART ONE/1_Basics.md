@@ -7,7 +7,6 @@
 ## Strings
 ## Python Collections (Arrays: Lists, dictionaries and tuples)
 
-
 There are four collection data types in the Python programming language:
 
 List is a collection which is ordered and changeable. Allows duplicate members.
