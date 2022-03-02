@@ -1,0 +1,27 @@
+name: DS_for_DD
+channels:
+  - conda-forge
+  - schrodinger
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - jupyterlab
+  - jupyter
+  - pandas
+  - numpy
+  - rdkit
+  - pymol 
+  - pmw
+  - scikit-learn
+  - seaborn
+  - easydict
+  - chembl_webresource_client
+  - biopandas
+  - pypdb
+  - pip:
+    - nbconvert==5.4.1 
+    - tensorflow
+    - catboost
+    - xgboost
+    
