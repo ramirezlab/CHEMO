@@ -8,6 +8,7 @@
 ## Python Basics
 
 - Introduction to file manipulation
+- Strings
 - Expressions
 - Conditional statements
 - Using and building functions
