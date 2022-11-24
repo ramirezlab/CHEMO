@@ -21,8 +21,5 @@ dependencies:
   - biopandas
   - pypdb
   - pip:
-    - nbconvert==5.4.1 
-    - tensorflow
-    - catboost
-    - xgboost
+    - nbconvert==5.4.1
     
