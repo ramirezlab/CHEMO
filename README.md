@@ -7,6 +7,7 @@
   - Variables, types of data, arrangements, manipulate files, flow control structures, functions...
   - *Practice*: Expression of genetic material
   - *Practice*: Proteins and amino acids
+
 - **Part two**.  DataFrames and data visualization
   - **2.1** Introduction to manipulating advanced Data Structures
       - `numpy` and `pandas` libraries
