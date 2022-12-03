@@ -20,6 +20,7 @@ dependencies:
   - chembl_webresource_client
   - biopandas
   - pypdb
+  - fastcluster
   - pip:
     - nbconvert==5.4.1
     
