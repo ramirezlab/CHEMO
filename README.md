@@ -1,4 +1,4 @@
-# Data Science for Drug Desing (_DS4DD_)
+# Collaborative Chemoinformatics Open Platform (CHEMO)
 
 ## INTRODUCTION
 ### Drug Design and Modeling: Exploring the Intersection of Data Science and Drug Discovery
@@ -57,17 +57,17 @@ git clone https://github.com/ramirezlab/DS-for-DD.git
 
 Install Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
 
-3. Use the package management system conda to create an environment (DS_for_DD). We provide an environment file (yml file) containing all required packages. Once Anaconda is installed, you can initiate the command line to create the environment and install the requirements using the following code:
+3. Use the package management system conda to create an environment (chemo). We provide an environment file (yml file) containing all required packages. Once Anaconda is installed, you can initiate the command line to create the environment and install the requirements using the following code:
 
 ```console
-conda env create --name DS_for_DD -file=env_DS_for_DD.yml
+conda env create -file=requisites.yml
 ```
 
-The `env_DS_for_DD.yml` file must be in the same directory where the code is executed.
+The `requisites.yml` file must be in the same directory where the code is executed.
 
 4.  Activate the conda environment
 ```console
-conda activate DS_for_DD
+conda activate chemo
 ```
 Now, you can work within the conda environment.
 

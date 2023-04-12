@@ -1,4 +1,4 @@
-name: DS_for_DD
+name: chemo
 channels:
   - conda-forge
   - schrodinger
