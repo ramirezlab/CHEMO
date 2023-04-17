@@ -13,8 +13,8 @@ DS4DD is an exceptional resource for students, researchers, and professionals se
 ## Table of contents
 - **Part one**. Introduction to Python
   - Variables, data types, data structures, file manipulation, flow control structures, functions...
-  - *Practice 1*: Expression of genetic material
-  - *Practice 2*: Proteins and amino acids
+  - *Practice 1 and 2*: Expression of genetic material
+  - *Practice 3*: Proteins and amino acids
 
 - **Part two**. DataFrames and data visualization
   - **2.1** Introduction to manipulating advanced data structures with Pandas
@@ -106,8 +106,8 @@ CHEMO es un recurso excepcional para estudiantes, investigadores y profesionales
 ## Tabla de contenido
 - **Parte uno**. Introducción a Python
   - Variables, tipos de datos, estructuras de datos, manipulación de archivos, estructuras de control de flujo, funciones...
-  - *Práctica 1*: Expresión del material genético
-  - *Práctica 2*: Proteínas y aminoácidos
+  - *Práctica 1 y 2*: Expresión del material genético
+  - *Práctica 3*: Proteínas y aminoácidos
 
 - **Parte dos**. DataFrames y visualización de datos
   - **2.1** Introducción a la manipulación de Estructuras de Datos avanzadas con Pandas
