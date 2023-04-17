@@ -18,7 +18,7 @@
 *******************************************
 
 
-# P2 - PARTe DOS: DataFrames y visualización de datos
+# P2 - PARTE DOS: DataFrames y visualización de datos
 ### Introducción a la manipulación de Estructuras de Datos avanzadas con Pandas
 
 - Librerias `numpy` y `pandas`
