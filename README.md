@@ -50,7 +50,7 @@ You can use our notebooks by either cloning the repository or downloading it fro
    Option 2: Cloning the repository to your computer using the `git` package.
    
 ```console
-git clone https://github.com/ramirezlab/DS-for-DD.git
+git clone https://github.com/ramirezlab/CHEMO.git
 ```
 
 2. We recommend using the Anaconda software for a clean installation where you can create an environment and install all the required packages.
