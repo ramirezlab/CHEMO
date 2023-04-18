@@ -27,7 +27,7 @@
 
 ##  Introducción a la visualización de Datos
 
-- Librerias `matplotlib` y `seaborn
+- Librerias `matplotlib` y `seaborn`
         - Gráficos de líneas, gráficos circulares, gráficos de barras horizontales, gráficos de barras verticales, histogramas, gráficos de radar.
 - Filtrado molecular: ADME y criterios de similitud 'lead-likeness'
 - Detección basada en ligandos: similitud de compuestos y agrupamiento de compuestos.
