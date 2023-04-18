@@ -143,7 +143,7 @@ Puede usar nuestros cuadernos clonando el repositorio o descargándolo del sitio
    Opción 2: Clonar el repositorio a tu computadora usando el paquete `git`.
    
 ```console
-git clone https://github.com/ramirezlab/DS-for-DD.git
+git clone https://github.com/ramirezlab/CHEMO.git
 ```
 
 2. Recomendamos usar el software Anaconda para una instalación limpia donde puede crear un entorno e instalar todos los paquetes necesarios.
