@@ -10,20 +10,14 @@ Welcome to the introduction of the course CHEMO, in the first part you will find
 ## Contents
 In this first *Python_basic* Jupyter notebook you will learn:
     
-    1. Introduction to Python
-    2. Variables
-    
-    3. Types of data
-    
-    4. Types of arrangements
-    
-    5. Upload files
-    
-    6. String manipulation
-    
-    7. Flow control structures
-    
-    8. Functions
+1. Introduction to Python
+2. Variables
+3. Types of data
+4. Types of arrangements
+5. Upload files
+6. String manipulation
+7. Flow control structures
+8. Functions
 
 - Python as a programming language
 - Jupyter as an open resource developer
