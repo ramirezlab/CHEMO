@@ -26,26 +26,26 @@ In this first *Python_basic* Jupyter notebook you will learn:
 ## Learning outcomes
 It is expected that by the end of this notebook the user will be able to:
 
-Understand the basics of the Python programming language.
-Understand variable formats:
-What are they?
-The assignments
-The basic operations
-Understand the uses and types of data:
-Numerical
-Boolean
-Text
-Arrangements
-Identify the types of arrangements and their use:
-Lists
-tuples
-Sets
-Dictionaries
-Load and modify files in different formats and sizes, view them, analyze them, read and write over them.
-Manage basic flow control structures:
-Conditionals
-Iterations
-Understand the Python tools that can be used in biology.
+1. Understand the basics of the Python programming language.
+2. Understand variable formats:
+    - What are they?
+    - The assignments
+    - The basic operations
+3. Understand the uses and types of data:
+    - Numerical
+    - Boolean
+    - Text
+    - Arrangements
+4. Identify the types of arrangements and their use:
+    - Lists
+    - Tuples
+    - Sets
+    - Dictionaries
+5. Load and modify files in different formats and sizes, view them, analyze them, read and write over them.
+6. Manage basic flow control structures:
+    - Conditionals
+    - Iterations
+7. Understand the Python tools that can be used in biology.
 
 
 *******************************************
