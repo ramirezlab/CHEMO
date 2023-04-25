@@ -8,7 +8,7 @@ Welcome to the introduction of the course CHEMO, in the first part you will find
 
 
 ## Contents
-In this first *Python_basic* Jupyter notebook you will learn:
+In this first *1.1_Introdution_Python* Jupyter notebook you will learn:
     
 1. Introduction to Python
 2. Variables
@@ -54,6 +54,49 @@ It is expected that by the end of this notebook the user will be able to:
 
 ### Introducción a Python y Jupyter para su aplicación en "Collaborative Chemoinformatics Open Platform" (CHEMO)
 
-- Python como lenguaje de programación
-- Jupyter como recuerso abierto de desarrolladores
+El curso “Collaborative Chemoinformatics Open Platform” (CHEMO) es una plataforma de aprendizaje autónomo dirigido a estudiantes e investigadores interesados en el desarrollo de herramientas biocomputaciones, desde Python, siendo este, el lenguaje de programación más empleado. Con el avance en las ciencias ómicas y las nuevas tecnologías se ha visto necesario adquirir habilidades informáticas aplicadas en las ciencias y el manejo de bases de datos biológicas.
 
+Bienvenido a la introducción del curso CHEMO, en la primera parte encontrara los fundamentos para comprender el lenguaje de programación de Python, está enfocado en la manipulación, extracción y análisis de datos provenientes de bases de datos biológicos (ómicos), partiendo desde lo conceptos básicos de programación y sus aplicaciones, con ejemplos basados en manipulación de secuencias de DNA.
+
+
+## Contents
+
+En este primer Jupyter notebook de *1.1_Introducción_Python* aprenderá:
+
+1. Introducción a Python
+2. Variables
+3. Tipos de datos
+4. Tipos de arreglos
+5. Cargar archivos
+6. Manipulación de strings
+7. Práctica 1: Expresión del material genético
+8. Estructuras de control de flujo
+9. Práctica 2: Expresión del material genético
+10. Funciones
+11. Práctica 3: Proteínas y aminoácidos
+
+
+## Resultados del aprendizaje
+
+Se espera que al finalizar este cuaderno el usuario pueda:
+
+1. Entender los conceptos básicos del lenguaje de programación de Python.
+2. Comprender los formatos de variables:
+    - ¿Qué son?
+    - Las asignaciones
+    - Las operaciones básicas
+3. Comprender los usos y los tipos de datos:
+    - Numérico
+    - Booleano
+    - Texto
+    - Arreglo
+4. Identificar los tipos de arreglos y su uso:
+    - Listas
+    - Tuplas
+    - Conjuntos
+    - Diccionarios
+5. Cargar y modificar archivos en diferentes formatos y tamaños, visualizarlos, analizarlos, leerlos y escribir sobre ellos.
+6. Manejar las estructuras de control de flujo básicas:
+    - Condicionales
+    - Iteraciones
+7. Comprender las herramientas de Python que se pueden emplear en la biología.
