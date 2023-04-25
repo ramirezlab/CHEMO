@@ -16,11 +16,36 @@ In this first *Python_basic* Jupyter notebook you will learn:
 4. Types of arrangements
 5. Upload files
 6. String manipulation
-7. Flow control structures
-8. Functions
+7. Practice 1: Expression of genetic material
+8. Flow control structures
+9. Practice 2: Expression of genetic material
+10. Functions
+11. Practice 3: Proteins and amino acids
 
-- Python as a programming language
-- Jupyter as an open resource developer
+
+## Learning outcomes
+It is expected that by the end of this notebook the user will be able to:
+
+Understand the basics of the Python programming language.
+Understand variable formats:
+What are they?
+The assignments
+The basic operations
+Understand the uses and types of data:
+Numerical
+Boolean
+Text
+Arrangements
+Identify the types of arrangements and their use:
+Lists
+tuples
+Sets
+Dictionaries
+Load and modify files in different formats and sizes, view them, analyze them, read and write over them.
+Manage basic flow control structures:
+Conditionals
+Iterations
+Understand the Python tools that can be used in biology.
 
 
 *******************************************
