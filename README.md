@@ -48,19 +48,23 @@ You can use our notebooks by either cloning the repository or downloading it fro
 1. Option 1: Downloading it as a zip archive and unzipping it.
 
    Option 2: Cloning the repository to your computer using the `git` package.
-   
+
+   **Note**: In the Windows operating system, it is necessary to install the `Git` package. Please see [here](https://git-scm.com/download/win) for instructions on how to install it.
+
 ```console
 git clone https://github.com/ramirezlab/CHEMO.git
 ```
+**Note**: To open the command prompt in Windows, you can either search for “Command Prompt” or "cmd" in the Start menu or press the Windows key + R on your keyboard to open the Run dialog box. From there, type “cmd” and press Enter, and the command prompt window will appear.
 
 2. We recommend using the Anaconda software for a clean installation where you can create an environment and install all the required packages.
 
 Install Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
 
 3. Use the package management system conda to create an environment (chemo). We provide an environment file (yml file) containing all required packages. Once Anaconda is installed, you can initiate the command line to create the environment and install the requirements using the following code:
-
+   
+  **Note**: To initiate the `command line` in Windows, you can either search for "_Anaconda Prompt_" in the Start menu and the command prompt window will appear.
 ```console
-conda env create -file=requisites.yml
+conda env create -file requisites.yml
 ```
 
 The `requisites.yml` file must be in the same directory where the code is executed.
@@ -141,16 +145,22 @@ Puede usar nuestros cuadernos clonando el repositorio o descargándolo del sitio
 1. Opción 1: Descargarlo como archivo zip y descomprimirlo.
 
    Opción 2: Clonar el repositorio a tu computadora usando el paquete `git`.
+
+   **Nota**: En Windows, es necesario instalar el paquete `Git`. Puede ver las instrucciones [aquí](https://git-scm.com/download/win).
    
 ```console
 git clone https://github.com/ramirezlab/CHEMO.git
 ```
+
+**Nota**: Para abrir la consola de comandos en Windows, puede buscar “Símbolo del sistema” o "cmd" en el menú de inicio o presionar la tecla de Windows + R en tu teclado para abrir la ventana Ejecutar. Desde allí, escribe “cmd” y presiona Enter, y la ventana de la consola de comandos aparecerá.
 
 2. Recomendamos usar el software Anaconda para una instalación limpia donde puede crear un entorno e instalar todos los paquetes necesarios.
 
 Instalar Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
 
 3. Utilice el sistema de gestión de paquetes conda para crear un entorno (CHEMO). Proporcionamos un archivo de entorno (archivo yml) que contiene todos los paquetes necesarios. Una vez que se instala Anaconda, puede iniciar la línea de comando para crear el entorno e instalar los requisitos utilizando el siguiente código:
+
+  **Nota**: Para iniciar la línea de comando de anaconda en Windows, puede buscar “Anaconda Prompt” en el menú de inicio y se abrirá la ventana de la consola de comandos.
 
 ```console
 conda env create -file=requisites.yml
