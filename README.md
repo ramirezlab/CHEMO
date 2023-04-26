@@ -163,7 +163,7 @@ Instalar Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.an
   **Nota**: Para iniciar la línea de comando de anaconda en Windows, puede buscar “Anaconda Prompt” en el menú de inicio y se abrirá la ventana de la consola de comandos.
 
 ```console
-conda env create -file=requisites.yml
+conda env create -file requisites.yml
 ```
 
 El archivo `requisites.yml` debe estar en el mismo directorio donde se ejecuta el código.
