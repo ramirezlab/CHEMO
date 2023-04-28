@@ -101,11 +101,11 @@ This work is licensed under the MIT License
 ### Diseño y modelado de fármacos: exploración de la intersección entre la ciencia de datos y el descubrimiento de fármacos.
 El diseño y modelado de fármacos es un área que continúa expandiéndose en importancia en el campo del descubrimiento de fármacos. Específicamente, la ciencia del diseño de fármacos asistido por computadora (CADD, por sus siglas en inglés) ha demostrado ser fundamental para descubrir, diseñar u optimizar moléculas pequeñas que tienen el potencial de convertirse en tratamientos medicinales viables.
 
-A medida que CADD continúa evolucionando, la ciencia de datos ha llegado a desempeñar un papel vital en el avance del descubrimiento de fármacos. TLa aplicación de técnicas de ciencia de datos, como el aprendizaje automático y la minería de datos, ha aumentado la eficiencia y la precisión del proceso.
+A medida que CADD continúa evolucionando, la ciencia de datos ha llegado a desempeñar un papel vital en el avance del descubrimiento de fármacos. La aplicación de técnicas de ciencia de datos, como el aprendizaje automático y la minería de datos, ha aumentado la eficiencia y la precisión del proceso.
 
 "Collaborative Chemoinformatics Open Platform" (CHEMO) tiene como objetivo proporcionar una comprensión completa y profunda de los fundamentos de CADD, con énfasis en la incorporación de técnicas clave de ciencia de datos en todo momento. El curso cubre una amplia gama de contenido, que va desde los elementos fundamentales de la programación de Python, hasta el diseño de fármacos basado en estructuras y ligandos, así como la detección virtual.
 
-CHEMO es un recurso excepcional para estudiantes, investigadores y profesionales que buscan mejorar su conocimiento de CADD y aquellos interesados en comprender el papel fundamental que desempeña la ciencia de datos en el descubrimiento de fármacos. Al tomar en este curso, los participantes pueden esperar obtener una comprensión más profunda de los emocionantes desarrollos en este campo de rápido crecimiento.
+CHEMO es un recurso excepcional para estudiantes, investigadores y profesionales que buscan mejorar su conocimiento de CADD y aquellos interesados en comprender el papel fundamental que desempeña la ciencia de datos en el descubrimiento de fármacos. Al tomar este curso, los participantes pueden esperar obtener una comprensión más profunda de los emocionantes desarrollos en este campo de rápido crecimiento.
 
 ## Tabla de contenido
 - **Parte uno**. Introducción a Python
