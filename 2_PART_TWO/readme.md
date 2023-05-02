@@ -19,6 +19,69 @@
 
 
 # P2 - PARTE DOS: DataFrames y visualización de datos
+
+Bienvenido a la parte dos de CHEMO, aquí encontrará los fundamentos de la manipulación de estructuras de datos avanzadas con Pandas, está enfocado en el uso de las librerías `numpy` y `pandas` así como en la limpieza y filtrado de datos, además se usará la base de datos ChEMBL para adquirir datos. Por otro lado, tendrá un primer acercamiento a la visualización de datos con las librerías `matplotlib` y `seaborn`.
+Aplicara estos conocimientos para adquirir compuestos bioactivos contra la glucógeno sintasa quinasa-3 beta de la base de datos ChEMBL, manipulara el conjunto de datos y empleara funciones para calcular las propiedades químicas de la regla de Lipinski y graficara estas propiedades en distintos tipos de gráficas. Además, va a realizar un filtrado molecular con las propiedades ADME y criterios de similitud 'lead-likeness' y finalmente se llevará acabo una detección basada en ligandos según similitud de compuestos y agrupamiento de compuestos.
+
+
+## Contenido
+
+En el Jupyter notebook *2.1_Dataframes* aprenderá:
+
+1. Operaciones matemáticas con Arreglos de Numpy.
+2. Introducción a las Series de Pandas.
+3. Introducción a los DataFrames.
+4. Práctica 1: Adquirir datos de ChEMBL.
+
+En el Jupyter notebook *2.2_DataVisualization* aprenderá:
+
+1. Introducción a Matplotlib.
+2. Graficando con Matplotlib:
+        - Gráfico de lineas.
+        - Gráficos 3D.
+3. Gráficando con Pandas:
+        - Gráfico de Barras.
+        - Gráfico de Torta.
+4. Gráficando con Seaborn:
+        - Gráfico de dispersión.
+5. Gráfico de radar.
+
+En el Jupyter notebook *2.3_Practica-1* aprenderá:
+
+1. Cargar conjunto de datos.
+2. Las reglas de Lipinski.
+3. Graficar las propiedades de la regla de cinco por molécula como gráficos de barras.
+4. Graficar las propiedades de la regla de cinco por molécula como diagramas de dispersión.
+5. Graficar las propiedades de la regla de cinco por molécula como gráfico de radar.
+
+En el Jupyter notebook *2.4_Practica-2* aprenderá:
+
+1. Ejemplo 1: Comparar una molécula con un conjunto de datos:
+2. Ejemplo 2: Agrupación jerárquica (hierarchical clustering).
+
+
+## Resultados del aprendizaje
+
+Se espera que al finalizar estos cuadernos el usuario pueda:
+
+1. Entender y realizar operaciones matemáticas con Arreglos de Numpy.
+2. Entender los conceptos básicos de las Series de Pandas:
+    - ¿Qué son?
+    - ¿Cómo se crea?
+    - ¿Cúal es su potencial?
+3. Comprender los DataFrames:
+    - ¿Qué son?
+    - ¿cómo se construyen?
+    - ¿Cómo se manipulan?
+        - Groupby.
+        - Assign.
+        - Query.
+        - Filter.
+        - Value_counts.
+4. Adquisición de datos de la base de datos ChEMBL.
+5. Filtrar moléculas aplicando las reglas de Lipinski a un conjunto de datos y visulaizarlas.
+6. Relaizar detección basada en ligandos según similitud de compuestos y agrupamiento de compuestos.
+
 ### Introducción a la manipulación de Estructuras de Datos avanzadas con Pandas
 
 - Librerias `numpy` y `pandas`
