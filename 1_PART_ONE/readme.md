@@ -59,7 +59,7 @@ El curso “Collaborative Chemoinformatics Open Platform” (CHEMO) es una plata
 Bienvenido a la introducción del curso CHEMO, en la primera parte encontrara los fundamentos para comprender el lenguaje de programación de Python, está enfocado en la manipulación, extracción y análisis de datos provenientes de bases de datos biológicos (ómicos), partiendo desde lo conceptos básicos de programación y sus aplicaciones, con ejemplos basados en manipulación de secuencias de DNA.
 
 
-## Contents
+## Contenido
 
 En este primer Jupyter notebook de *1.1_Introducción_Python* aprenderá:
 
