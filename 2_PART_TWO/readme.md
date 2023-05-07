@@ -80,18 +80,5 @@ Se espera que al finalizar estos cuadernos el usuario pueda:
         - Value_counts.
 4. Adquisición de datos de la base de datos ChEMBL.
 5. Filtrar moléculas aplicando las reglas de Lipinski a un conjunto de datos y visulaizarlas.
-6. Relaizar detección basada en ligandos según similitud de compuestos y agrupamiento de compuestos.
-
-### Introducción a la manipulación de Estructuras de Datos avanzadas con Pandas
-
-- Librerias `numpy` y `pandas`
-- Limpieza y filtrado de bases de datos.
-- Adquirir datos de ChEMBL
-
-##  Introducción a la visualización de Datos
-
-- Librerias `matplotlib` y `seaborn`
-        - Gráficos de líneas, gráficos circulares, gráficos de barras horizontales, gráficos de barras verticales, histogramas, gráficos de radar.
-- Filtrado molecular: ADME y criterios de similitud 'lead-likeness'
-- Detección basada en ligandos: similitud de compuestos y agrupamiento de compuestos.
+6. Realizar detección basada en ligandos según similitud de compuestos y agrupamiento de compuestos.
 
