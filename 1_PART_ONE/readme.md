@@ -16,9 +16,9 @@ In this first *1.1_Introdution_Python* Jupyter notebook you will learn:
 4. Types of arrangements
 5. Upload files
 6. String manipulation
-7. Practice 1: Expression of genetic material
+7. Practice 1: Expression of genetic material (DNA Transcription)
 8. Flow control structures
-9. Practice 2: Expression of genetic material
+9. Practice 2: Expression of genetic material (Translation)
 10. Functions
 11. Practice 3: Proteins and amino acids
 
@@ -69,9 +69,9 @@ En este primer Jupyter notebook de *1.1_Introducción_Python* aprenderá:
 4. Tipos de arreglos
 5. Cargar archivos
 6. Manipulación de strings
-7. Práctica 1: Expresión del material genético
+7. Práctica 1: Expresión del material genético (Transcripción de ADN)
 8. Estructuras de control de flujo
-9. Práctica 2: Expresión del material genético
+9. Práctica 2: Expresión del material genético (Traducción)
 10. Funciones
 11. Práctica 3: Proteínas y aminoácidos
 
