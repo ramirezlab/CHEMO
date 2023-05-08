@@ -33,24 +33,33 @@ In the Jupyter notebook *2.3_Practice-1* you will learn:
 4. Plot the rule-of-five properties per molecule as scatter diagrams.
 5. Plot the rule of five properties per molecule as a radar chart.
 
-n the Jupyter notebook *2.4_Practice-2* you will learn:
+In the Jupyter notebook *2.4_Practice-2* you will learn:
 
 1. Example 1: Compare a molecule with a data set.
 2. Example 2: Hierarchical clustering.
 
 
-### Introduction to manipulating advanced data structures with Pandas
+## Learning Outcomes
 
-- `numpy` and `pandas` libraries
-- Database cleaning and filtering
-- Compound data acquisition: ChEMBL
+It is expected that at the end of these notebooks the user will be able to:
 
-## Introduction to data visualization
-
-- `matplotlib` and `seaborn` libraries
-        - Lineplots, pie plots, horizontal bar plots, vertical bar plots, histograms, radar plots.
-- Molecular filtering: ADME and lead-likeness criteria
-- Ligand-based screening: Compound similarity and compound clustering
+1. Understand and perform mathematical operations with Numpy Arrays.
+2. Understand the basics of the Panda Series:
+    - What are they?
+    - How is it created?
+    - What is the potential of this?
+3. Understand DataFrames:
+    - What are they?
+    - How are they built?
+    - How are they handled?
+        -Groupby.
+        -Assign.
+        -Query.
+        -Filter.
+        -Value_counts.
+4. Data acquisition from the ChEMBL database.
+5. Filter molecules by applying Lipinski's rules to a data set and visualize them.
+6. Perform ligand-based detection based on compound similarity and compound clustering.        
 
 
 *******************************************
