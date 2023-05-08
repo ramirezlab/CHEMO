@@ -20,7 +20,7 @@
 
 # P2 - PARTE DOS: DataFrames y visualización de datos
 
-Bienvenido a la parte dos de CHEMO, aquí encontrará los fundamentos de la manipulación de estructuras de datos avanzadas con Pandas, está enfocado en el uso de las librerías `numpy` y `pandas` así como en la limpieza y filtrado de datos, además se usará la base de datos ChEMBL para adquirir datos. Por otro lado, tendrá un primer acercamiento a la visualización de datos con las librerías `matplotlib` y `seaborn`.
+Bienvenido a la parte dos de CHEMO, aquí encontrará los fundamentos de la manipulación de estructuras de datos avanzadas con Pandas, está enfocado en el uso de las librerías `numpy` y `pandas` así como en la limpieza y filtrado de datos, además se usará la base de datos ChEMBL para adquirir compuestos bioactivos. Por otro lado, tendrá un primer acercamiento a la visualización de datos con las librerías `matplotlib` y `seaborn`.
 Aplicara estos conocimientos para adquirir compuestos bioactivos contra la glucógeno sintasa quinasa-3 beta de la base de datos ChEMBL, manipulara el conjunto de datos y empleara funciones para calcular las propiedades químicas de la regla de Lipinski y graficara estas propiedades en distintos tipos de gráficas. Además, va a realizar un filtrado molecular con las propiedades ADME y criterios de similitud 'lead-likeness' y finalmente se llevará acabo una detección basada en ligandos según similitud de compuestos y agrupamiento de compuestos.
 
 
