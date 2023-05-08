@@ -1,6 +1,6 @@
 # P2 - PART TWO: DataFrames and data visualization
 
-Welcome to part two of CHEMO, here you will find the fundamentals of the manipulation of advanced data structures with Pandas, it is focused on the use of the `numpy` and `pandas` libraries as well as cleaning and filtering data, in addition the database ChEMBL will be used to acquire bioactive compounds.
+Welcome to part two of CHEMO, here you will find the fundamentals of the manipulation of advanced data structures with Pandas, it is focused on the use of the `numpy` and `pandas` libraries as well as cleaning and filtering data, in addition the database ChEMBL will be used to acquire bioactive compounds. On the other hand, you will have a first approach to data visualization with the `matplotlib` and `seaborn` libraries.
 
 ### Introduction to manipulating advanced data structures with Pandas
 
