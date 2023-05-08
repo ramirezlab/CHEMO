@@ -1,6 +1,43 @@
 # P2 - PART TWO: DataFrames and data visualization
 
-Welcome to part two of CHEMO, here you will find the fundamentals of the manipulation of advanced data structures with Pandas, it is focused on the use of the `numpy` and `pandas` libraries as well as cleaning and filtering data, in addition the database ChEMBL will be used to acquire bioactive compounds. On the other hand, you will have a first approach to data visualization with the `matplotlib` and `seaborn` libraries. You will apply this knowledge to acquire bioactive compounds against glycogen synthase kinase-3 beta from the ChEMBL database, manipulate the data set and use functions to calculate the chemical properties of Lipinski's rule and plot these properties on different types of graphs. In addition, it will carry out a molecular filtering with ADME properties and 'lead-likeness' similarity criteria and finally a ligand-based detection will be carried out according to compound similarity and compound grouping.
+Welcome to part two of CHEMO, here you will find the fundamentals of the manipulation of advanced data structures with Pandas, it is focused on the use of the `numpy` and `pandas` libraries as well as cleaning and filtering data, in addition the database ChEMBL will be used to acquire bioactive compounds. On the other hand, you will have a first approach to data visualization with the `matplotlib` and `seaborn` libraries. You will apply this knowledge to acquire bioactive compounds against glycogen synthase kinase-3 beta from the ChEMBL database, manipulate the data set and use functions to calculate the chemical properties of Lipinski's rule and plot these properties on different types of graphs. In addition, it will realize a molecular filtering with ADME properties and 'lead-likeness' similarity criteria and finally a ligand-based detection will be carried out according to compound similarity and compound grouping.
+
+
+## Content
+
+In the Jupyter notebook *2.1_Dataframes* you will learn:
+
+1. Mathematical operations with Numpy Arrays.
+2. Introduction to the Panda Series.
+3. Introduction to DataFrames.
+4. Practice 1: Acquire ChEMBL data.
+
+In the Jupyter notebook *2.2_DataVisualization* you will learn:
+
+1. Introduction to Matplotlib.
+2. Plotting with Matplotlib:
+        - Line graph.
+        - 3D graphics.
+3. Graphing with Pandas:
+        - Bar graphic.
+        - Pie Chart.
+4. Plotting with Seaborn:
+        - Scatter plot.
+5. Radar chart.
+
+In the Jupyter notebook *2.3_Practice-1* you will learn:
+
+1. Load data set.
+2. Lipinski's rules.
+3. Plot the rule of five properties per molecule as bar graphs.
+4. Plot the rule-of-five properties per molecule as scatter diagrams.
+5. Plot the rule of five properties per molecule as a radar chart.
+
+n the Jupyter notebook *2.4_Practice-2* you will learn:
+
+1. Example 1: Compare a molecule with a data set.
+2. Example 2: Hierarchical clustering.
+
 
 ### Introduction to manipulating advanced data structures with Pandas
 
@@ -57,7 +94,7 @@ En el Jupyter notebook *2.3_Practica-1* aprenderá:
 
 En el Jupyter notebook *2.4_Practica-2* aprenderá:
 
-1. Ejemplo 1: Comparar una molécula con un conjunto de datos:
+1. Ejemplo 1: Comparar una molécula con un conjunto de datos.
 2. Ejemplo 2: Agrupación jerárquica (hierarchical clustering).
 
 
