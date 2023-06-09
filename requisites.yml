@@ -23,4 +23,4 @@ dependencies:
   - fastcluster
   - pip:
     - nbconvert==5.4.1
-    
+    - xgboost
