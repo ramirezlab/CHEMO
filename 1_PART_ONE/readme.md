@@ -64,17 +64,16 @@ Bienvenido a la introducción del curso CHEMO, en la primera parte encontrara lo
 En este primer Jupyter notebook de *1.1_Introducción_Python* aprenderá:
 
 1. Introducción a Python
-2. Variables
-3. Tipos de datos
-4. Tipos de arreglos
-5. Cargar archivos
-6. Manipulación de strings
-8. Estructuras de control de flujo
-7. Práctica 1: Expresión del material genético (Transcripción de ADN)
-
-9. Práctica 2: Expresión del material genético (Traducción)
-10. Funciones
-11. Práctica 3: Proteínas y aminoácidos
+    - Variables
+    - Tipos de datos
+    - Tipos de arreglos
+    - Cargar archivos
+    - Manipulación de strings
+    - Estructuras de control de flujo
+    - Funciones
+2. Práctica 1: Expresión del material genético (Transcripción de ADN)
+3. Práctica 2: Expresión del material genético (Traducción)
+4. Práctica 3: Proteínas y aminoácidos
 
 
 ## Resultados del aprendizaje
