@@ -11,16 +11,16 @@ Welcome to the introduction of the course CHEMO, in the first part you will find
 In this first *1.1_Introdution_Python* Jupyter notebook you will learn:
     
 1. Introduction to Python
-2. Variables
-3. Types of data
-4. Types of arrangements
-5. Upload files
-6. String manipulation
-7. Practice 1: Expression of genetic material (DNA Transcription)
-8. Flow control structures
-9. Practice 2: Expression of genetic material (Translation)
-10. Functions
-11. Practice 3: Proteins and amino acids
+    - Variables
+    - Types of data
+    - Types of arrangements
+    - Upload files
+    - String manipulation
+    - Flow control structures
+    - Functions
+2. Practice 1: Expression of genetic material (DNA Transcription)
+3. Practice 2: Expression of genetic material (Translation)
+4. Practice 3: Proteins and amino acids
 
 
 ## Learning outcomes
@@ -64,16 +64,16 @@ Bienvenido a la introducción del curso CHEMO, en la primera parte encontrara lo
 En este primer Jupyter notebook de *1.1_Introducción_Python* aprenderá:
 
 1. Introducción a Python
-2. Variables
-3. Tipos de datos
-4. Tipos de arreglos
-5. Cargar archivos
-6. Manipulación de strings
-7. Práctica 1: Expresión del material genético (Transcripción de ADN)
-8. Estructuras de control de flujo
-9. Práctica 2: Expresión del material genético (Traducción)
-10. Funciones
-11. Práctica 3: Proteínas y aminoácidos
+    - Variables
+    - Tipos de datos
+    - Tipos de arreglos
+    - Cargar archivos
+    - Manipulación de strings
+    - Estructuras de control de flujo
+    - Funciones
+2. Práctica 1: Expresión del material genético (Transcripción de ADN)
+3. Práctica 2: Expresión del material genético (Traducción)
+4. Práctica 3: Proteínas y aminoácidos
 
 
 ## Resultados del aprendizaje
