@@ -10,7 +10,14 @@ The Collaborative Chemoinformatics Open Platform (CHEMO) aims to provide a compr
 
 CHEMO is an exceptional resource for students, researchers, and professionals seeking to enhance their knowledge of CADD, and those interested in understanding the critical role that data science plays in drug discovery. By enrolling in this course, participants can expect to gain a deeper understanding of the exciting developments in this rapidly-growing field.
 
-## Table of contents
+## Learning Outcomes
+
+1. To know methodologies and programming environments in Python language for users of chemical and/or related sciences.
+2. To configure and use libraries for data analysis and visualization applied to chemoinformatics.  
+3. To implement solutions to optimize computer-aided drug design processes.  
+4. To apply solutions based on Machine learning algorithms to perform ligand-based virtual screening campaigns. 
+
+## Contents
 - **Part one**. Introduction to Python
   - Variables, data types, data structures, file manipulation, flow control structures, functions...
   - *Practice 1 and 2*: Expression of genetic material
@@ -43,13 +50,13 @@ This course is suitable for undergraduate and graduate students who want to delv
 
 ### What do you need?
 
-You can use our notebooks by either cloning the repository or downloading it from the website.
+To use the notebook you can:
 
-1. Option 1: Downloading it as a zip archive and unzipping it.
+- Option 1: Cloning the repository to your computer using the `git` package.
+- Option 2: Downloading it as a zip archive and unzipping it. 
+- Option 3: Follow the Google CoLab links in each notebook. 
 
-   Option 2: Cloning the repository to your computer using the `git` package.
-
-   **Note**: In the Windows operating system, it is necessary to install the `Git` package. Please see [here](https://git-scm.com/download/win) for instructions on how to install it.
+   **Note**: In Windows operating system, it is necessary to install the `Git` package. Please see [here](https://git-scm.com/download/win) for instructions on how to install it.
 
 ```console
 git clone https://github.com/ramirezlab/CHEMO.git
@@ -89,7 +96,6 @@ This work is licensed under the MIT License
 
 ## Citation
 
-## Special Thanks
 
 
 *******************************************************************************************
@@ -107,7 +113,14 @@ A medida que CADD continúa evolucionando, la ciencia de datos ha llegado a dese
 
 CHEMO es un recurso excepcional para estudiantes, investigadores y profesionales que buscan mejorar su conocimiento de CADD y aquellos interesados en comprender el papel fundamental que desempeña la ciencia de datos en el descubrimiento de fármacos. Al tomar este curso, los participantes pueden esperar obtener una comprensión más profunda de los emocionantes desarrollos en este campo de rápido crecimiento.
 
-## Tabla de contenido
+## Resultados de aprendizaje
+
+1. Conocer metodologías y entornos de programación en lenguaje de Python para usuarios de ciencias químicas y/o afines.
+2. Configurar y utilizar librerías para el análisis y visualización de datos aplicados a la quimioinformática.  
+3. Implementar soluciones que permitan optimizar los procesos de diseño de fármacos asistido por computador.  	 
+4. Aplicar soluciones basadas en algoritmos de aprendizaje automático (Machine learning) para realizar campañas de cribado virtual basado en ligandos.  
+
+## Contenido
 - **Parte uno**. Introducción a Python
   - Variables, tipos de datos, estructuras de datos, manipulación de archivos, estructuras de control de flujo, funciones...
   - *Práctica 1 y 2*: Expresión del material genético
@@ -140,11 +153,11 @@ Este curso es adecuado para estudiantes de pregrado y posgrado que deseen profun
 
 ### ¿Qué necesitas?
 
-Puede usar nuestros cuadernos clonando el repositorio o descargándolo del sitio web.
+Para utilizar el cuaderno puedes:
 
-1. Opción 1: Descargarlo como archivo zip y descomprimirlo.
-
-   Opción 2: Clonar el repositorio a tu computadora usando el paquete `git`.
+- Opción 1: Clonando el repositorio a tu ordenador usando el paquete `git`.
+- Opción 2: Descargándolo como archivo zip y descomprimiéndolo. 
+- Opción 3: Seguir los enlaces de Google CoLab en cada cuaderno.
 
    **Nota**: En Windows, es necesario instalar el paquete `Git`. Puede ver las instrucciones [aquí](https://git-scm.com/download/win).
    
@@ -188,4 +201,4 @@ Este trabajo está autorizado bajo la Licencia MIT
 
 ## Citación
 
-## Agradecimientos especiales
+
