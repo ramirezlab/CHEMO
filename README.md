@@ -1,106 +1,3 @@
-# Collaborative Chemoinformatics Open Platform (CHEMO)
-
-## INTRODUCTION
-### Drug Design and Modeling: Exploring the Intersection of Data Science and Drug Discovery
-Drug design and modeling is an area that continues to expand in significance in the field of drug discovery. Specifically, the science of computer-aided drug design (CADD) has proven critical to discovering, designing, or optimizing small molecules that have the potential to become viable medicinal treatments.
-
-As CADD continues to evolve, data science has come to play a vital role in advancing drug discovery. The application of data science techniques such as machine learning and data mining have increased the efficiency and accuracy of the process.
-
-The Collaborative Chemoinformatics Open Platform (CHEMO) aims to provide a comprehensive and thorough understanding of CADD fundamentals, with an emphasis on incorporating key data science techniques throughout. The course covers a wide array of content, ranging from the foundational elements of Python programming, to ligand-based and structure-based drug design, as well as virtual screening.
-
-CHEMO is an exceptional resource for students, researchers, and professionals seeking to enhance their knowledge of CADD, and those interested in understanding the critical role that data science plays in drug discovery. By enrolling in this course, participants can expect to gain a deeper understanding of the exciting developments in this rapidly-growing field.
-
-## Learning Outcomes
-
-1. To know methodologies and programming environments in Python language for users of chemical and/or related sciences.
-2. To configure and use libraries for data analysis and visualization applied to chemoinformatics.  
-3. To implement solutions to optimize computer-aided drug design processes.  
-4. To apply solutions based on Machine learning algorithms to perform ligand-based virtual screening campaigns. 
-
-## Contents
-- **Part one**. Introduction to Python
-  - Variables, data types, data structures, file manipulation, flow control structures, functions...
-  - *Practice 1 and 2*: Expression of genetic material
-  - *Practice 3*: Proteins and amino acids
-
-- **Part two**. DataFrames and data visualization
-  - **2.1** Introduction to manipulating advanced data structures with Pandas
-      - `numpy` and `pandas` libraries
-      - Database cleaning and filtering 
-      - *Practice*: Compound data acquisition: ChEMBL
-      
-  - **2.2** Introduction to data visualization
-      - `matplotlib` and `seaborn` libraries
-        - Lineplots, pie plots, horizontal bar plots, vertical bar plots, histograms, radar plots, ...
-      - *Practice 1*: Molecular filtering: ADME and lead-likeness criteria
-      - *Practice 2*: Ligand-based screening: Compound similarity and compound clustering
-- **Part three**. Machine learning
-  - **3.1** Introduction to Machine Learning
-  - **3.2_Practice 1**: Ligand classification model
-       
-## Objetive
-The aim of this course is to teach essential concepts and skills in drug design and modeling. The course is designed to cater to a wide range of students, from novice to advanced, covering multiple topics, such as an introduction to Python, data manipulation and visualization, structure-based and ligand-based drug design, and virtual screening. The curriculum is modular to let instructors customize the material according to their needs and teaching methods.
-
-### Why take this course?
-There are several reasons for taking this course. Firstly, it provides a strong foundation in computer-aided drug design (CADD), which is an increasingly vital field in drug discovery. Secondly, the course is comprehensively designed to cover from basics to advanced topics, making it suitable for students at all levels. Finally, the flexibility of the curriculum enables it to be tailored according to one's learning needs.
-
-### Who is this course for?
-
-This course is suitable for undergraduate and graduate students who want to delve into computer-aided drug design (CADD) and apply the principles of data science to the field of drug design. It is also fitting for researchers, professionals, and scientists who want to enrich their understanding of the concepts and techniques of CADD.
-
-### What do you need?
-
-To use the notebook you can:
-
-- Option 1: Cloning the repository to your computer using the `git` package.
-- Option 2: Downloading it as a zip archive and unzipping it. 
-- Option 3: Follow the Google CoLab links in each notebook. 
-
-   **Note**: In Windows operating system, it is necessary to install the `Git` package. Please see [here](https://git-scm.com/download/win) for instructions on how to install it.
-
-```console
-git clone https://github.com/ramirezlab/CHEMO.git
-```
-**Note**: To open the command prompt in Windows, you can either search for “Command Prompt” or "cmd" in the Start menu or press the Windows key + R on your keyboard to open the Run dialog box. From there, type “cmd” and press Enter, and the command prompt window will appear.
-
-2. We recommend using the Anaconda software for a clean installation where you can create an environment and install all the required packages.
-
-Install Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
-
-3. Use the package management system conda to create an environment (chemo). We provide an environment file (yml file) containing all required packages. Once Anaconda is installed, you can initiate the command line to create the environment and install the requirements using the following code:
-   
-  **Note**: To initiate the `command line` in Windows, you can either search for "_Anaconda Prompt_" in the Start menu and the command prompt window will appear.
-```console
-conda env create -file requisites.yml
-```
-
-The `requisites.yml` file must be in the same directory where the code is executed.
-
-4.  Activate the conda environment
-```console
-conda activate chemo
-```
-Now, you can work within the conda environment.
-
-5. Start the Jupyter notebook.
-```console
-jupyter notebook
-```
->You can now get started with your first notebook. Enjoy!
-
-## Contact
-
-
-## Licence
-This work is licensed under the MIT License
-
-## Citation
-
-
-
-*******************************************************************************************
-
-
 # "Collaborative Chemoinformatics Open Platform" (CHEMO)
 
 ## INTRODUCCIÓN
@@ -200,5 +97,105 @@ jupyter notebook
 Este trabajo está autorizado bajo la Licencia MIT
 
 ## Citación
+
+*******************************************************************************************
+
+# Collaborative Chemoinformatics Open Platform (CHEMO)
+
+## INTRODUCTION
+### Drug Design and Modeling: Exploring the Intersection of Data Science and Drug Discovery
+Drug design and modeling is an area that continues to expand in significance in the field of drug discovery. Specifically, the science of computer-aided drug design (CADD) has proven critical to discovering, designing, or optimizing small molecules that have the potential to become viable medicinal treatments.
+
+As CADD continues to evolve, data science has come to play a vital role in advancing drug discovery. The application of data science techniques such as machine learning and data mining have increased the efficiency and accuracy of the process.
+
+The Collaborative Chemoinformatics Open Platform (CHEMO) aims to provide a comprehensive and thorough understanding of CADD fundamentals, with an emphasis on incorporating key data science techniques throughout. The course covers a wide array of content, ranging from the foundational elements of Python programming, to ligand-based and structure-based drug design, as well as virtual screening.
+
+CHEMO is an exceptional resource for students, researchers, and professionals seeking to enhance their knowledge of CADD, and those interested in understanding the critical role that data science plays in drug discovery. By enrolling in this course, participants can expect to gain a deeper understanding of the exciting developments in this rapidly-growing field.
+
+## Learning Outcomes
+
+1. To know methodologies and programming environments in Python language for users of chemical and/or related sciences.
+2. To configure and use libraries for data analysis and visualization applied to chemoinformatics.  
+3. To implement solutions to optimize computer-aided drug design processes.  
+4. To apply solutions based on Machine learning algorithms to perform ligand-based virtual screening campaigns. 
+
+## Contents
+- **Part one**. Introduction to Python
+  - Variables, data types, data structures, file manipulation, flow control structures, functions...
+  - *Practice 1 and 2*: Expression of genetic material
+  - *Practice 3*: Proteins and amino acids
+
+- **Part two**. DataFrames and data visualization
+  - **2.1** Introduction to manipulating advanced data structures with Pandas
+      - `numpy` and `pandas` libraries
+      - Database cleaning and filtering 
+      - *Practice*: Compound data acquisition: ChEMBL
+      
+  - **2.2** Introduction to data visualization
+      - `matplotlib` and `seaborn` libraries
+        - Lineplots, pie plots, horizontal bar plots, vertical bar plots, histograms, radar plots, ...
+      - *Practice 1*: Molecular filtering: ADME and lead-likeness criteria
+      - *Practice 2*: Ligand-based screening: Compound similarity and compound clustering
+- **Part three**. Machine learning
+  - **3.1** Introduction to Machine Learning
+  - **3.2_Practice 1**: Ligand classification model
+       
+## Objetive
+The aim of this course is to teach essential concepts and skills in drug design and modeling. The course is designed to cater to a wide range of students, from novice to advanced, covering multiple topics, such as an introduction to Python, data manipulation and visualization, structure-based and ligand-based drug design, and virtual screening. The curriculum is modular to let instructors customize the material according to their needs and teaching methods.
+
+### Why take this course?
+There are several reasons for taking this course. Firstly, it provides a strong foundation in computer-aided drug design (CADD), which is an increasingly vital field in drug discovery. Secondly, the course is comprehensively designed to cover from basics to advanced topics, making it suitable for students at all levels. Finally, the flexibility of the curriculum enables it to be tailored according to one's learning needs.
+
+### Who is this course for?
+
+This course is suitable for undergraduate and graduate students who want to delve into computer-aided drug design (CADD) and apply the principles of data science to the field of drug design. It is also fitting for researchers, professionals, and scientists who want to enrich their understanding of the concepts and techniques of CADD.
+
+### What do you need?
+
+To use the notebook you can:
+
+- Option 1: Cloning the repository to your computer using the `git` package.
+- Option 2: Downloading it as a zip archive and unzipping it. 
+- Option 3: Follow the Google CoLab links in each notebook. 
+
+   **Note**: In Windows operating system, it is necessary to install the `Git` package. Please see [here](https://git-scm.com/download/win) for instructions on how to install it.
+
+```console
+git clone https://github.com/ramirezlab/CHEMO.git
+```
+**Note**: To open the command prompt in Windows, you can either search for “Command Prompt” or "cmd" in the Start menu or press the Windows key + R on your keyboard to open the Run dialog box. From there, type “cmd” and press Enter, and the command prompt window will appear.
+
+2. We recommend using the Anaconda software for a clean installation where you can create an environment and install all the required packages.
+
+Install Anaconda: [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
+
+3. Use the package management system conda to create an environment (chemo). We provide an environment file (yml file) containing all required packages. Once Anaconda is installed, you can initiate the command line to create the environment and install the requirements using the following code:
+   
+  **Note**: To initiate the `command line` in Windows, you can either search for "_Anaconda Prompt_" in the Start menu and the command prompt window will appear.
+```console
+conda env create -file requisites.yml
+```
+
+The `requisites.yml` file must be in the same directory where the code is executed.
+
+4.  Activate the conda environment
+```console
+conda activate chemo
+```
+Now, you can work within the conda environment.
+
+5. Start the Jupyter notebook.
+```console
+jupyter notebook
+```
+>You can now get started with your first notebook. Enjoy!
+
+## Contact
+
+
+## Licence
+This work is licensed under the MIT License
+
+## Citation
 
 
