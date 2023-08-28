@@ -11,8 +11,7 @@ dependencies:
   - pandas
   - numpy
   - rdkit
-  - vtk-m
-  - pymol 
+  - vtk-m 
   - pmw
   - scikit-learn
   - seaborn
